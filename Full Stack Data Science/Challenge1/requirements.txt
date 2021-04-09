@@ -1,0 +1,4 @@
+os
+tkinter
+pypiwin32
+win32api
